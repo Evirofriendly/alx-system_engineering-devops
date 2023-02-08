@@ -1,4 +1,5 @@
 #!/bin/bash
-pwd should print the absolute current working directory of the bash the execute the file from the command line and print it out to the interface must be  exactly what is in the file to be print out i use this for a very easy access without any problem and making it executable in comand line interface
+pwd
+should print the current working directory of the shell
 
 
