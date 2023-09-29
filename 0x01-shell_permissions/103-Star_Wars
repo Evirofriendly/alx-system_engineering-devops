@@ -1,0 +1,2 @@
+#!/bin/bash
+star_wars_iv_path="/path/to/Star.Wars.Episode.IV.A.New.Hope.mp4" mpv "${star_wars_iv_path}"
